@@ -1,6 +1,6 @@
 Package: bread
 Title: Analyze Big Files Without Loading Them in Memory
-Version: 0.3.1
+Version: 0.4.1
 Authors@R: 
     person("Vincent", "Guegan", , "vincent.guegan@banque-france.fr", role = c("aut", "cre"))
 Description: A simple set of wrapper functions for data.table::fread() that allows subsetting or
@@ -22,6 +22,6 @@ Imports: data.table
 NeedsCompilation: no
 Author: Vincent Guegan [aut, cre]
 Maintainer: Vincent Guegan <vincent.guegan@banque-france.fr>
-Packaged: 2022-11-14 13:56:47 UTC; Vz
+Packaged: 2023-06-26 13:41:28 UTC; Vz
 Repository: CRAN
-Date/Publication: 2022-11-15 22:40:12 UTC
+Date/Publication: 2023-06-26 14:50:02 UTC
